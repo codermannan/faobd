@@ -56,7 +56,7 @@ var baseurl = '<?php echo base_url();?>';
 			
 			<p class="description">
             	<h2 style="color:#F37E3B; font-weight:bold;">
-					Star Basketball Academy
+				Food and Agriculture Organization of the United Nations
               </h2>
            </p>
 			
