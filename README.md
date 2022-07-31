@@ -2,6 +2,7 @@
 
 # I have used php and mysql for developing this software and also used CodeIgniter Framework
 # when uplaod database plase make sure to uplaod or create view
+# There is a folder named database where I have kept database file
 
 # Environment Setup
 # install xampp 7.4.29 / PHP 7.4.29 --https://www.apachefriends.org/download.html
