@@ -1,0 +1,10 @@
+{
+    "total_number_of_reported_cases_is": "1170",
+    "total_number_of_deaths_reported_at_each_location": {
+        "Health Centre A": "139",
+        "Health Centre B": "151",
+        "Village 1": "160",
+        "Village 2": "194",
+        "Village 3": "207"
+    }
+}

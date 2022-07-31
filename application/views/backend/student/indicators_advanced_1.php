@@ -9,13 +9,23 @@
                     $newdata["total_number_of_deaths_from_each_disease"][$deaths['name']] = $deaths['SUM(ad.number_mortality)'];
                 }
 
-                $set = array_merge($data, $newdata);
+                $response = array_merge($data, $newdata);
 
                 echo '<pre>';
-                    echo json_encode($set, JSON_PRETTY_PRINT);
+                    echo json_encode($response, JSON_PRETTY_PRINT);
                 echo '</pre>';
                 
-                //echo '<pre>';print_r($Average_number_cats_reported_villages);
+                $json = json_encode($response, JSON_PRETTY_PRINT);
+                file_put_contents('indicators_advanced_1.json', $json);
+
+                 if ( ! write_file('indicators_advanced_1.json', $response))
+                 {
+                     echo 'Unable to write the file';
+                 }
+                 else
+                 {
+                     echo 'file written';
+                 }
                 ?>
                 
             </div>

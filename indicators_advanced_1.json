@@ -1,0 +1,15 @@
+{
+    "Average_number_of_sick_cats_reported_in_reports_from_villages_up_to_two_decimal_points": "28.33",
+    "total_number_of_deaths_from_each_disease": {
+        "Babesiosis": "0",
+        "Brucellosis": "20",
+        "Ephemeral Fever": "48",
+        "Gangrene": "87",
+        "Infectious Coryza": "76",
+        "Mycoplasmosis": "153",
+        "Necrotic Enteritis": "130",
+        "Tape Worm": "112",
+        "Tetanus": "147",
+        "Worm Infestation": "78"
+    }
+}
