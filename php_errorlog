@@ -1,0 +1,83 @@
+[24-Nov-2018 02:42:09 CST6CDT] PHP Parse error:  syntax error, unexpected ':' in /home/starfoot/public_html/elearning/application/views/backend/student/modal_student_marksheet.php on line 14
+[25-Nov-2018 02:43:38 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/starfoot/public_html/elearning/application/views/backend/student/navigation.php on line 74
+[25-Nov-2018 02:43:48 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/starfoot/public_html/elearning/application/views/backend/student/navigation.php on line 74
+[25-Nov-2018 02:47:12 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/starfoot/public_html/elearning/application/views/backend/student/navigation.php on line 78
+[25-Nov-2018 02:47:45 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/starfoot/public_html/elearning/application/views/backend/student/navigation.php on line 78
+[25-Nov-2018 02:51:01 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/starfoot/public_html/elearning/application/views/backend/student/navigation.php on line 78
+[25-Nov-2018 02:51:21 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/starfoot/public_html/elearning/application/views/backend/student/navigation.php on line 78
+[03-Dec-2018 20:40:40 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/starfoot/public_html/elearning/application/views/backend/student/book.php on line 30
+[09-Dec-2018 12:02:29 CST6CDT] PHP Fatal error:  Call to a member function row_array() on boolean in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 6
+[09-Dec-2018 12:03:05 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 6
+[09-Dec-2018 12:03:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'event_schedule' (T_STRING) in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 21
+[09-Dec-2018 12:04:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'event_schedule' (T_STRING) in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 21
+[09-Dec-2018 12:07:11 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 8
+[09-Dec-2018 12:08:07 CST6CDT] PHP Fatal error:  Call to a member function row_array() on boolean in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 8
+[09-Dec-2018 12:08:45 CST6CDT] PHP Fatal error:  Call to a member function row_array() on boolean in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 8
+[09-Dec-2018 12:09:28 CST6CDT] PHP Fatal error:  Call to a member function result_array() on boolean in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 8
+[09-Dec-2018 12:22:52 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 38
+[09-Dec-2018 12:35:08 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 38
+[12-Dec-2018 22:02:49 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:02:55 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:03:02 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:03:36 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:03:45 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:05:53 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:10:34 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 22:37:54 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 23:22:24 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 23:22:27 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 23:22:32 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 23:25:39 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 23:26:12 CST6CDT] PHP Fatal error:  Cannot redeclare Crud_model::get_grade() in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 697
+[12-Dec-2018 23:27:36 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 699
+[12-Dec-2018 23:28:49 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 699
+[12-Dec-2018 23:29:05 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 699
+[12-Dec-2018 23:29:26 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 699
+[12-Dec-2018 23:30:07 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 699
+[12-Dec-2018 23:30:54 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 699
+[12-Dec-2018 23:35:22 CST6CDT] PHP Fatal error:  Call to a member function result_array() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 701
+[12-Dec-2018 23:35:25 CST6CDT] PHP Fatal error:  Call to a member function result_array() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 701
+[12-Dec-2018 23:37:50 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 703
+[12-Dec-2018 23:39:54 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[12-Dec-2018 23:40:29 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 703
+[12-Dec-2018 23:41:48 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 704
+[12-Dec-2018 23:42:32 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 714
+[12-Dec-2018 23:46:49 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[12-Dec-2018 23:48:15 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[12-Dec-2018 23:48:33 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 701
+[12-Dec-2018 23:53:07 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 00:43:13 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 00:43:32 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 00:45:41 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 00:45:54 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 01:20:57 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 01:23:09 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 01:23:45 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 01:23:59 CST6CDT] PHP Fatal error:  Call to undefined method CI_Session::sessiondata() in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 12
+[13-Dec-2018 01:26:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 13
+[13-Dec-2018 01:30:47 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 12
+[13-Dec-2018 01:33:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/starfoot/public_html/elearning/application/views/backend/student/dashboard.php on line 86
+[13-Dec-2018 01:38:18 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 01:38:24 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 01:39:21 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 14:25:45 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 14:26:18 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 14:26:35 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 14:27:16 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 14:27:23 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 22:53:56 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[13-Dec-2018 23:34:34 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 03:13:48 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 03:14:01 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 03:14:05 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 09:10:40 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 09:10:56 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 09:13:40 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[14-Dec-2018 09:14:31 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 702
+[24-Dec-2018 10:08:36 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 724
+[24-Dec-2018 10:10:07 CST6CDT] PHP Fatal error:  Call to a member function row() on boolean in /home/starfoot/public_html/elearning/application/models/Crud_model.php on line 724
+[31-Jul-2019 13:47:12 CST6CDT] PHP Fatal error:  Call to a member function query() on boolean in /home/starsacademies/public_html/elearning/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[31-Jul-2019 13:49:30 CST6CDT] PHP Fatal error:  Call to a member function query() on boolean in /home/starsacademies/public_html/elearning/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[31-Jul-2019 13:53:38 CST6CDT] PHP Fatal error:  Call to a member function result_array() on null in /home/starsacademies/public_html/elearning/application/views/backend/student/lesson_plan_details.php on line 7
+[01-Aug-2019 00:38:37 CST6CDT] PHP Fatal error:  Call to a member function result_array() on null in /home/starsacademies/public_html/elearning/application/views/backend/student/lesson_plan_details.php on line 7
+[01-Aug-2019 00:38:54 CST6CDT] PHP Fatal error:  Call to a member function result_array() on null in /home/starsacademies/public_html/elearning/application/views/backend/student/lesson_plan_details.php on line 7

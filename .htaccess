@@ -1,0 +1,15 @@
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 46.4.62.120
+<IfModule mod_rewrite.c>
+Options -Indexes
+RewriteEngine on
+RewriteBase /Project_name/
+RewriteCond $1 !^(index\.php|images|css|js|robots\.txt|favicon\.ico)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ ./index.php/$1 [L,QSA]
+</IfModule>
